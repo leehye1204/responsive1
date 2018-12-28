@@ -8,4 +8,4 @@ I made this responsive site for you
 
 <h2>웹 표준 사이트</h2>
 <p>2018.12.28 완성</p>
-<a href="https://leehye1204.github.io/responsive1/">VIEW</a>
+<a href="http://leehye1204.dothome.co.kr/responsive/html5/index.html">VIEW</a>
